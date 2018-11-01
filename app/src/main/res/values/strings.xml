@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FilosofosQueJantam</string>
+    <string name="ladoDireito">D</string>
+    <string name="ladoEsquerdo">E</string>
+    <string name="talher">F</string>
+    <string name="token">T</string>
+    <string name="filosofo1">Filosofo 1</string>
+    <string name="filosofo2">Filosofo 2</string>
+    <string name="filosofo3">Filosofo 3</string>
+    <string name="btn_comer">Começar a comer</string>
+    <string name="btn_parar">Parar de comer</string>
+</resources>
